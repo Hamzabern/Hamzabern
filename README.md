@@ -7,7 +7,7 @@
 ### 🎓 Background
 I graduated with a **Master’s degree in Software Engineering and Information Systems Management**.  
 I am passionate about **building modern web applications and SaaS platforms** that combine **clean architecture, scalability, and great user experience**.  
-Currently, I’m focusing on **full-stack development** and working on projects like a **task management SaaS (Optitask)** and my **developer portfolio**.  
+Currently, I’m focusing on **full-stack development** and working on projects like a **task management SaaS**.  
 I am also open to **freelance projects and collaboration opportunities**.  
 
 ---
