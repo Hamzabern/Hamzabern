@@ -52,7 +52,7 @@ I am also open to **freelance projects and collaboration opportunities**.
 ---
 
 ### 🚀 Featured Projects
-- [**Optitask (Work in Progress)**](#) – Task & Project Management SaaS (Trello/ClickUp Clone)  
+- [**Optitask (Work in Progress)**](#) – Task & Project Management SaaS
 - [**Developer Portfolio (Work in Progress)**](#) – Dynamic Portfolio with Laravel & React  
 
 ---
