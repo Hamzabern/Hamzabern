@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hamza Bernoussi
+# Hi 👋, I'm Hamza Bernoussi (aka ZesDev) 👨‍💻
 **Software Engineer | Full-Stack Developer**  
 🌍 Based in Morocco | 💻 Building SaaS & Web Applications  
 
